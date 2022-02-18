@@ -1,0 +1,1 @@
+var start = 'Hello world';
